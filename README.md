@@ -1,4 +1,4 @@
-# Reset Admin and User PASS Windows Server via CMD
+# Reset Admin and User PASS Windows via CMD
 
 START
 
