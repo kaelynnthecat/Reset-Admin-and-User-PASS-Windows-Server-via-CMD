@@ -1,0 +1,1 @@
+# Reset-Admin-and-User-PASS-Windows-Server-via-CMD
