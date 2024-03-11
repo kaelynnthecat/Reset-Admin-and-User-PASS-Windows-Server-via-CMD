@@ -11,4 +11,8 @@ START
 6. Use Utilman button for open a CMD
 7. "net user [USERNAME] [NEW PASSWORD]"
 
+OR
+
+7. control userpasswords2
+
 END
